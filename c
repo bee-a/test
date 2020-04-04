@@ -180,5 +180,3 @@ int main()
 	direction();
 	return 0;
 }
-git remote add origin https://github.com/ldc961010/2016study
-git push origin master
